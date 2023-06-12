@@ -48,13 +48,17 @@ jobs:
         run: yarn install --prefer-offline --frozen-lockfile
 
       - name: Contract Hardhat Tests
+        id: test
         run: npx hardhat test
         
       - name: Contract Hardhat Coverage
+        if: steps.test.outcome == 'success'
+        id: coverage
         run: npx hardhat coverage
 
       - name: Upload reports to Codecov
         uses: codecov/codecov-action@v2
+        if: steps.coverage.outcome == 'success'
         with:
           token: ${{ secrets.CODECOV_KEY }}
           files: coverage.json
