@@ -56,5 +56,6 @@ jobs:
       - name: Upload reports to Codecov
         uses: codecov/codecov-action@v3
         with:
+          token: ${{ secrets.CODECOV_KEY }}
           files: coverage.json
           fail_ci_if_error: false
