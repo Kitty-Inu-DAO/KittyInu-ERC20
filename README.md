@@ -1,7 +1,7 @@
 # 
 
 [![Release Version](https://img.shields.io/github/release/Kitty-Inu-DAO/KittyInu-ERC20.svg)](https://github.com/Kitty-Inu-DAO/KittyInu-ERC20/releases/latest) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-![solidity - v0.8.9](https://img.shields.io/badge/solidity-v0.8.9-2ea44f?logo=solidity) [![CI Tests](https://github.com/Kitty-Inu-DAO/KittyInu-ERC20/actions/workflows/main.yml/badge.svg)](https://github.com/Kitty-Inu-DAO/KittyInu-ERC20/actions/workflows/main.yml) ![coverage tag](https://codecov.io/gh/Kitty-Inu-DAO/KittyInu-ERC20/branch/master/graph/badge.svg)
+![solidity - v0.8.9](https://img.shields.io/badge/solidity-v0.8.9-2ea44f?logo=solidity) [![Workflows CI](https://github.com/Kitty-Inu-DAO/KittyInu-ERC20/actions/workflows/main.yml/badge.svg)](https://github.com/Kitty-Inu-DAO/KittyInu-ERC20/actions/workflows/main.yml) [![codecov](https://codecov.io/gh/Kitty-Inu-DAO/KittyInu-ERC20/branch/main/graph/badge.svg?token=605Q99RPGM)](https://codecov.io/gh/Kitty-Inu-DAO/KittyInu-ERC20)
 
 ![Kitty Inu DAO](./kitty_logo.jpg)
 # Kitty Inu ERC20 
