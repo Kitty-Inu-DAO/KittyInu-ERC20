@@ -1,10 +1,9 @@
-# 
+# Kitty Inu ERC20 v2.0.0
 
-[![Release Version](https://img.shields.io/github/release/Kitty-Inu-DAO/KittyInu-ERC20.svg)](https://github.com/Kitty-Inu-DAO/KittyInu-ERC20/releases/latest) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-![solidity - v0.8.9](https://img.shields.io/badge/solidity-v0.8.9-2ea44f?logo=solidity) [![Workflows CI](https://github.com/Kitty-Inu-DAO/KittyInu-ERC20/actions/workflows/main.yml/badge.svg)](https://github.com/Kitty-Inu-DAO/KittyInu-ERC20/actions/workflows/main.yml) [![codecov](https://codecov.io/gh/Kitty-Inu-DAO/KittyInu-ERC20/branch/main/graph/badge.svg?token=605Q99RPGM)](https://codecov.io/gh/Kitty-Inu-DAO/KittyInu-ERC20)
+![solidity - v0.8.9](https://img.shields.io/badge/solidity-v0.8.9-2ea44f?logo=solidity) [![Release Version](https://img.shields.io/github/release/Kitty-Inu-DAO/KittyInu-ERC20.svg)](https://github.com/Kitty-Inu-DAO/KittyInu-ERC20/releases/latest) [![Workflows CI](https://github.com/Kitty-Inu-DAO/KittyInu-ERC20/actions/workflows/main.yml/badge.svg)](https://github.com/Kitty-Inu-DAO/KittyInu-ERC20/actions/workflows/main.yml) [![codecov](https://codecov.io/gh/Kitty-Inu-DAO/KittyInu-ERC20/branch/main/graph/badge.svg?token=605Q99RPGM)](https://codecov.io/gh/Kitty-Inu-DAO/KittyInu-ERC20) [![ethereum-mainnet](https://img.shields.io/badge/Ethereum-Mainnet-63688f?logo=ethereum)](https://etherscan.io/address/0x61a35258107563f6b6f102ae25490901c8760b12) [![goerli](https://img.shields.io/badge/Goerli-Testnet-green?logo=goerli)](https://goerli.etherscan.io/address/0x379f036c9f1a7ca84d673669a7db1aabb0d46fba) [![sepolia](https://img.shields.io/badge/Sepolia-Testnet-purple?logo=goerli)](https://sepolia.etherscan.io/token/0x15b44b0d16d196276a7cec1b505a5a8a1b35eb75) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
 
 ![Kitty Inu DAO](./kitty_logo.jpg)
-# Kitty Inu ERC20 
 
 ## Installation
 
